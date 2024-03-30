@@ -1,20 +1,9 @@
-<h1 align="center">Hi 👋, I'm Driksha Thakur ✨</h1>
-<h3 align="center">A passionate first-year CSE student from India</h3>
+#  👋Hey! I'm Driksha Thakur!✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drikshathakur786" alt="drikshathakur786" /></a> </p>
+Welcome to my colorful world where creativity meets code! 🌈
 
-- 🌱 I’m currently learning **Python and C**
+🎨 Being a first-year CSE student from India, I'm just dipping my toes into the vast ocean of coding possibilities. But hey, I'm also a budding artist who's absolutely smitten with sketching! ✏️
 
-- 📫 How to reach me **drikshathakur@gmail.com**
+💻 I spend my days doodling and coding away, exploring the endless wonders of **Python** and **C**. It's like painting with pixels and crafting with code - an adventure I can't wait to dive deeper into! 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/drikshathakur786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drikshathakur786" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drikshathakur786&show_icons=true&locale=en&layout=compact" alt="drikshathakur786" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drikshathakur786&show_icons=true&locale=en" alt="drikshathakur786" /></p>
+📧 Wanna chat about code snippets or sketching techniques? Hit me up at **drikshathakur@gmail.com**! Let's brainstorm and create something awesome together! 🌟
