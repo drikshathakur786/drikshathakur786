@@ -27,7 +27,7 @@
 ### 🔗 Connect With Me
 
 - 📧 Email: driksha605@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/driksha-thakur-487120300)
+- 💼 [LinkedIn](https://www.linkedin.com/in/driksha-thakur-487120300)
 
 ---
 
