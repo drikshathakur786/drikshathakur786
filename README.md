@@ -1,34 +1,24 @@
-## Hi, I'm Driksha 👋
+# 💫 About Me:
+👩‍💻 Hi, I'm **Driksha Thakur**, a 3rd-year Computer Science student at Chitkara University.<br> I’m currently working on iOS apps using **Swift**<br><br> I’m looking to collaborate on open source projects and hackathons<br><br>💬 Ask me about anything related to Swift, DSA, or Java Spring<br><br>🌱 I’m currently learning DSA, SwiftUI, and React.js<br><br>🤔 I’m looking for help with real-world iOS UI/UX and backend integration<br><br>⚡ Fun fact: I find debugging bugs strangely satisfying and can spend hours solving one challenge!
 
-🎓 Computer Science student (3rd year) at Chitkara University  
-💻 Currently learning: `Swift`, `DSA`, and Full Stack Development  
-🌱 Previously worked with: `Python`, `C++`, `Java`, `HTML`, `CSS`, `JavaScript`  
-📱 Passionate about building iOS apps and solving real-world problems through code  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/driksha-thakur-487120300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:driksha605@gmail.com) 
 
-### 📚 Learning Journey
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=drikshathakur786&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=drikshathakur786&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=drikshathakur786&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- iOS Development with Swift at college  
-- Building DSA skills with [LeetCode](https://leetcode.com/)  
-- Exploring backend with Java Spring and frontend with React  
-- Participated in Hackathons and college tech projects  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=drikshathakur786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 📊 GitHub Stats
-
-![Driksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drikshathakur786&show_icons=true&theme=default&hide_title=false&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drikshathakur786&layout=compact&theme=default)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=drikshathakur786&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=drikshathakur786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔗 Connect With Me
-
-- 📧 Email: driksha605@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/driksha-thakur-487120300)
-
----
-
-> “Keep building. Keep learning.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
