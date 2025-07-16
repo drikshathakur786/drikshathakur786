@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Hi, I'm **Driksha Thakur**, a 3rd-year Computer Science student at Chitkara University.<br>  
+👩‍💻 Hi, I'm **Driksha Thakur**, a 3rd-year Computer Science student at Chitkara University.**<br><br>   
 🛠️ I’m currently working on iOS apps using **Swift**<br><br>  
 🤝 I’m looking to collaborate on open source projects and hackathons<br><br>  
 💬 Ask me about anything related to **Swift**, **DSA**, or **Java Spring**<br><br>  
