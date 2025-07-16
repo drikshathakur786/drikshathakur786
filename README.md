@@ -4,7 +4,6 @@
 🤝 I’m looking to collaborate on open source projects and hackathons<br><br>  
 💬 Ask me about anything related to **Swift**, **DSA**, or **Java Spring**<br><br>  
 🌱 I’m currently learning **DSA**, **SwiftUI**, and **React.js**<br><br>  
-🤔 I’m looking for help with real-world **iOS UI/UX** and **backend integration**<br><br>  
 ⚡ Fun fact: I find debugging bugs strangely satisfying and can spend hours solving one challenge!
 
 ---
