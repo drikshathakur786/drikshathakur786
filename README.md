@@ -1,9 +1,9 @@
 # 💫 About Me:
-👩‍💻 Hi, I'm **Driksha Thakur**, a 3rd-year Computer Science student at **Chitkara University.**
-🛠️ I’m currently working on iOS apps using **Swift**
-🤝 I’m looking to collaborate on open source projects and hackathons  
-💬 Ask me about anything related to **Swift**, **DSA**, or **Java Spring**
-🌱 I’m currently learning **DSA**, **SwiftUI**, and **React.js**
+👩‍💻 Hi, I'm **Driksha Thakur**, a 3rd-year Computer Science student at **Chitkara University.**<br>
+🛠️ I’m currently working on iOS apps using **Swift**<br>
+🤝 I’m looking to collaborate on open source projects and hackathons  <br>
+💬 Ask me about anything related to **Swift**, **DSA**, or **Java Spring** <br>
+🌱 I’m currently learning **DSA**, **SwiftUI**, and **React.js**<br>
 ⚡ Fun fact: I find debugging bugs strangely satisfying and can spend hours solving one challenge!
 
 ---
