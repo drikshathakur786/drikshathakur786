@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Driksha Thakur 👋</h1>
-  <h3>Final Year CS Student | Full Stack & iOS Developer</h3>
+  <h3>Full Stack & iOS Developer</h3>
   <p><i>Building for the future, one commit at a time.</i></p>
 </div>
 
